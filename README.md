@@ -16,13 +16,13 @@ A powerful drag-and-drop task management tool for guiding users through organizi
 ## Getting Started
 
 1. Install dependencies:
-   \\\ash
+
    npm install
-   \\\
+
 
 2. Run the development server:
-   \\\ash
+
    npm run dev
-   \\\
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
